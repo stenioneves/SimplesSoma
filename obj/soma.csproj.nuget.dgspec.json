@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/stenio/soma/soma.csproj": {}
+  },
+  "projects": {
+    "/home/stenio/soma/soma.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/stenio/soma/soma.csproj",
+        "projectName": "soma",
+        "projectPath": "/home/stenio/soma/soma.csproj",
+        "packagesPath": "/home/stenio/.nuget/packages/",
+        "outputPath": "/home/stenio/soma/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/stenio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

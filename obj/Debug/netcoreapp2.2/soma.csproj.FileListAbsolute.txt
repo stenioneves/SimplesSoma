@@ -1,0 +1,11 @@
+/home/stenio/soma/bin/Debug/netcoreapp2.2/soma.deps.json
+/home/stenio/soma/bin/Debug/netcoreapp2.2/soma.runtimeconfig.json
+/home/stenio/soma/bin/Debug/netcoreapp2.2/soma.runtimeconfig.dev.json
+/home/stenio/soma/bin/Debug/netcoreapp2.2/soma.dll
+/home/stenio/soma/bin/Debug/netcoreapp2.2/soma.pdb
+/home/stenio/soma/obj/Debug/netcoreapp2.2/soma.csprojAssemblyReference.cache
+/home/stenio/soma/obj/Debug/netcoreapp2.2/soma.csproj.CoreCompileInputs.cache
+/home/stenio/soma/obj/Debug/netcoreapp2.2/soma.AssemblyInfoInputs.cache
+/home/stenio/soma/obj/Debug/netcoreapp2.2/soma.AssemblyInfo.cs
+/home/stenio/soma/obj/Debug/netcoreapp2.2/soma.dll
+/home/stenio/soma/obj/Debug/netcoreapp2.2/soma.pdb
